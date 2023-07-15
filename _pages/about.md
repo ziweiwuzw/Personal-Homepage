@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 I'm a third-year graduate student from [School of ECO-EVO](https://eco.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My research interest includes genome evolution, bioinformatics, phylogenetic relationship, and machine learning.
 
-Under the guidance of [Prof. KaYan Ma](https://abel-sysu.github.io/en/) of ABEL Lab from [School of Ecology](https://eco.sysu.edu.cn/), Sun Yat-sen University.
+Under the guidance of Prof. KaYan Ma of [ABEL Lab](https://abel-sysu.github.io/en/) from [School of Ecology](https://eco.sysu.edu.cn/), Sun Yat-sen University.
 [Email](mailto:ziweiw1998@gmail.com) / [Github](https://github.com/ziweiwuzw/) / [Wechat](../images/WeChat-number.jpg) 
 
 
