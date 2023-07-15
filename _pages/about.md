@@ -13,6 +13,6 @@ I'm a third-year graduate student from [School of ECO-EVO](https://eco.sysu.edu.
 
 Under the guidance of Prof. KaYan Ma of [ABEL Lab](https://abel-sysu.github.io/en/) from [School of Ecology](https://eco.sysu.edu.cn/), Sun Yat-Sen University.
 
-[Email](mailto:ziweiw1998@gmail.com) / [Github](https://github.com/ziweiwuzw/) / [Wechat](https://github.com/ziweiwuzw/Personal-Homepage/blob/master/images/WeChat-number.jpg) 
+[Email](mailto:ziweiw1998@gmail.com) / [Github](https://github.com/ziweiwuzw/) / [Wechat](https://github.com/ziweiwuzw/Personal-Homepage/blob/master/images/WeChat.png) 
 
 
