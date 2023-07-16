@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a third-year graduate student from [School of ECO-EVO](https://eco.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/). My research interest includes genome evolution, bioinformatics, phylogenetic relationship, and machine learning.
+I am a third-year graduate student from [School of ECO-EVO](https://eco.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/). My research interest includes genome evolution, bioinformatics, phylogenetic relationship, and machine learning.
 
 Under the guidance of Prof. KaYan Ma of [ABEL Lab](https://abel-sysu.github.io/en/) from [School of Ecology](https://eco.sysu.edu.cn/), Sun Yat-Sen University.
 
