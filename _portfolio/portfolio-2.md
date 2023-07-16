@@ -1,6 +1,6 @@
 ---
 title: "Secondary Contact Information"
-excerpt: "Feel free to reach out to me via Wechat. <br/><img src='https://ziweiwuzw.github.io/woozoe.ziwei.github.io/images/wechat-logo.png'>"
+excerpt: "Feel free to contact me through WeChat. <br/><img src='https://ziweiwuzw.github.io/woozoe.ziwei.github.io/images/wechat-logo.png'>"
 collection: portfolio
 ---
 
