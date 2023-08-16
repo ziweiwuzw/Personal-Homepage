@@ -30,17 +30,43 @@ Analysis**, Plant Biotechnology
 and 2019, respectively, **Nominated for Best Sustainability (7/320 international student team) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
 
 
-Work experience
+RESEARCH EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+1.	Microscopic Algae, “Macroscopic” Energy				 			  Fuzhou, China
+Student Leaders & Advisors, iGEM Project						 Jun. 2018 - Nov. 2021
+	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
+	Led mathematical modeling experiments, including 
+	Designing a Logistic growth model for microalgae based on growth trends.
+	Developed optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2.	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp  Shenzhen, China First author, Published									  Feb. 2022 - Jan. 2023
+	Gathered nine RNA-Seq project datasets from the NCBI SRA and finally obtained 109 transcriptome expression profiles.
+	Generated innovative ideas to enhance project outcomes.
+	Proficiently acquired expertise in Shell scripting and effectively utilized R programming languages, which enabled me to complete the Data Processing, Plot Generation, and Initial Draft Writing independently.
+
+3.	Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans		Hongkong, China
+Co-first author, In submission								  Jun. 2022 - Jul. 2023
+	Novel Orthomyxoviridae identified. Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
+	Ancestral states of the novel viruses and host associations analysis.
+
+
+4.	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level   Shenzhen, China First author, Upcoming Graduation Thesis						       Sep. 2022 - Present
+	Completed genome assembly using third-generation ONT sequencing data and Hi-C data.
+	Individually extracted RNA from five tissues of the Land Crabs (Gecarcoidea lalandii), constructed RNA libraries and performed independent third-generation full-length cDNA ONT sequencing.
+	Conducted gene functional annotation amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
+	Performed inner genomic collinearity analysis, unique and shared gene family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in Gecarcoidea lalandii.
+Additionally, scrutinized for genes under positive selection in Gecarcoidea lalandii, with the 
+objective of elucidating the driving factors behind its adaptive evolution (terrestrial adaptation).
+
+5.	Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in Sesarmidae — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs	
+Hongkong, China
+Co-first author, In Analysis								      Nov. 2022 - Present
+	Led three Sesarmidae genome assemblies using third-generation ONT sequencing data.
+	Conducted gene functional annotation (especially the annotation of CAZymes) using transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
+	Performed three crabs’ genomic collinearity analysis, CAZymes family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in Sesarmidae.
+	Combining metagenomics and metatranscriptomics to reveal the molecular mechanism and evolutionary process of crab degradation of lignocellulose.
+
+
   
 Skills
 ======
