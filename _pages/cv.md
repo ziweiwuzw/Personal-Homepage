@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Sun Yat-sen University**											         	
+Master in Science degree								    	    Aug. 2021 - Present
+Majors: **Ecology** (honors program: Evolutionary Ecology) Cumulative GPA: **3.5 (85.65/100)**
+Anticipated Core Courses: **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
+
+**Fujian Agriculture and Forestry University**								         
+Bachelor of Agriculture degree, summa cum laude					 Sep. 2017 - Jun. 2021 
+Majors: **Plant Science** and **Technology** (honors program, quantitative focus) Cumulative GPA: **3.5 (85/100)**
+Relevant Courses: Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
+Theory, **Biological Data**, Experimental Designs and Statistical Analyses, **Genetics 
+(Bilingual Course)**, **Molecular Genetics**, Plant Cell Biology, Agroecology, **Biological Data 
+Analysis**, Plant Biotechnology
+Honors: Gold and Bronze **Awards at the International Genetically Engineered Machine (iGEM)** in 2021 
+and 2019, respectively, **Nominated for Best Sustainability (7/320 international student team) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
+
 
 Work experience
 ======
