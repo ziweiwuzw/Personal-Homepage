@@ -13,7 +13,7 @@ EDUCATION
 ======
 
 **Sun Yat-sen University**
-  * Master in Science degree								    	    Aug. 2021 - Present
+* Master in Science degree                                                                                                    Aug. 2021 - Present
 * Majors: **Ecology** (honors program: Evolutionary Ecology) Cumulative
 * GPA: **3.5 (85.65/100)**
 * Anticipated Core Courses: **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
