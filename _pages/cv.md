@@ -13,13 +13,13 @@ EDUCATION
 ======
 
 **Sun Yat-sen University**
-* Master in Science degree —————— Aug. 2021 - Present
+* Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; Aug. 2021 - Present
 * Majors: **Ecology** (honors program: Evolutionary Ecology) Cumulative
 * GPA: **3.5 (85.65/100)**
 * Anticipated Core Courses: **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
 
 **Fujian Agriculture and Forestry University**								         
-* Bachelor of Agriculture degree, summa cum laude —————— &emsp; Sep. 2017 - Jun. 2021 
+* Bachelor of Agriculture degree, summa cum laude &emsp; &emsp; &emsp; &emsp; Sep. 2017 - Jun. 2021 
 * Majors: **Plant Science** and **Technology** (honors program, quantitative focus) Cumulative
 * GPA: **3.5 (85/100)**
 * Relevant Courses: Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
@@ -32,25 +32,26 @@ and 2019, respectively, **Nominated for Best Sustainability (7/320 international
 
 RESEARCH EXPERIENCE
 ======
-* 1.	Microscopic Algae, “Macroscopic” Energy				 			  Fuzhou, China
-Student Leaders & Advisors, iGEM Project						 Jun. 2018 - Nov. 2021
+* 1	Microscopic Algae, “Macroscopic” Energy				 			  Fuzhou, China
+Student Leaders & Advisors, iGEM Project	&emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
 * * 	Led mathematical modeling experiments, including 
 * * 	Designing a Logistic growth model for microalgae based on growth trends.
 * * 	Developed optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
 
-* 2.	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp  Shenzhen, China First author, Published									  Feb. 2022 - Jan. 2023
+* 2	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp  Shenzhen, China
+* First author, Published&emsp; &emsp; &emsp; &emsp; Feb. 2022 - Jan. 2023
 * 	Gathered nine RNA-Seq project datasets from the NCBI SRA and finally obtained 109 transcriptome expression profiles.
 * 	Generated innovative ideas to enhance project outcomes.
 * 	Proficiently acquired expertise in Shell scripting and effectively utilized R programming languages, which enabled me to complete the Data Processing, Plot Generation, and Initial Draft Writing independently.
 
 * 3.	Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans		Hongkong, China
-* Co-first author, In submission								  Jun. 2022 - Jul. 2023
+* Co-first author, In submission &emsp; &emsp; &emsp; Jun. 2022 - Jul. 2023
 * 	Novel Orthomyxoviridae identified. Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
 * 	Ancestral states of the novel viruses and host associations analysis.
 
 
-* 4.	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic * Level   Shenzhen, China First author, Upcoming Graduation Thesis						       Sep. 2022 - Present
+* 4.	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic * Level   Shenzhen, China First author, Upcoming Graduation Thesis &emsp; &emsp; &emsp; &emsp; Sep. 2022 - Present
 * 	Completed genome assembly using third-generation ONT sequencing data and Hi-C data.
 * 	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed RNA libraries, and performed independent third-generation full-length cDNA ONT sequencing.
 * 	Conducted gene functional annotation amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
@@ -59,10 +60,10 @@ Additionally, scrutinized for genes under positive selection in _Gecarcoidea lal
 
 * 5.	Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs	
 Hongkong, China
-* Co-first author, In Analysis								      Nov. 2022 - Present
+* Co-first author, In Analysis &emsp; &emsp; &emsp; &emsp; Nov. 2022 - Present
 * 	Led three Sesarmidae genome assemblies using third-generation ONT sequencing data.
 * 	Conducted gene functional annotation (especially the annotation of CAZymes) using transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
-* 	Performed three crabs’ genomic collinearity analysis, CAZymes family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in Sesarmidae.
+* 	Performed three crabs’ genomic collinearity analysis, CAZymes family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in _Sesarmidae_.
 * 	Combining metagenomics and metatranscriptomics to reveal the molecular mechanism and evolutionary process of crab degradation of lignocellulose.
   
 ACADEMIC ACTIVITIES AND PUBLICATION
@@ -73,14 +74,14 @@ ACADEMIC ACTIVITIES AND PUBLICATION
 
 ADDITIONAL EXPERIENCE
 ======
-* 1.	Undergraduate Ecological Comprehensive Experiment				 Mar. 2022 - Jun. 2022 
+* 1.	Undergraduate Ecological Comprehensive Experiment &emsp; &emsp; &emsp; Mar. 2022 - Jun. 2022 
 * Experimental teaching assistant in the 2021 autumn semester 	High-Throughput Sequencing Module
-* 2.	English - Chinese translation of a sustainable development report			  Oct. 2022 - Nov. 2022 
-* United Nations Volunteers 									         Translator
-* 3.	Undergraduate Biochemical Experiment 						  Oct. 2022 - Jan. 2023 
-* Experimental teaching assistant in the 2022 autumn semester		         Biochemical Experiment
-* 4.	Undergraduate Ecological Comprehensive Experiment				 Mar. 2023 - Jun. 2023 
-* Experimental teaching assistant in the 2022 spring semester	High-Throughput Sequencing Module
+* 2.	English - Chinese translation of a sustainable development report &emsp; &emsp; &emsp; Oct. 2022 - Nov. 2022 
+* United Nations Volunteers &emsp; &emsp; &emsp; &emsp; &emsp; Translator
+* 3.	Undergraduate Biochemical Experiment &emsp; &emsp; &emsp; Oct. 2022 - Jan. 2023 
+* Experimental teaching assistant in the 2022 autumn semester &emsp; &emsp; &emsp; Biochemical Experiment
+* 4.	Undergraduate Ecological Comprehensive Experiment	&emsp; &emsp; &emsp; Mar. 2023 - Jun. 2023 
+* Experimental teaching assistant in the 2022 spring semester &emsp; &emsp; High-Throughput Sequencing Module
 
   
 SKILLS AND HOBBIE
