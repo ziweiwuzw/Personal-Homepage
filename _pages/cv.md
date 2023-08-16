@@ -33,7 +33,7 @@ and 2019, respectively, **Nominated for Best Sustainability (7/320 international
 RESEARCH EXPERIENCE
 ======
 * 1	Microscopic Algae, “Macroscopic” Energy				 			  Fuzhou, China
-Student Leaders & Advisors, iGEM Project	&emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
+* Student Leaders & Advisors, iGEM Project	&emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
 * * 	Led mathematical modeling experiments, including 
 * * 	Designing a Logistic growth model for microalgae based on growth trends.
