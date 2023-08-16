@@ -45,20 +45,20 @@ Student Leaders & Advisors, iGEM Project	&emsp; &emsp; &emsp; Jun. 2018 - Nov. 2
 * 	Generated innovative ideas to enhance project outcomes.
 * 	Proficiently acquired expertise in Shell scripting and effectively utilized R programming languages, which enabled me to complete the Data Processing, Plot Generation, and Initial Draft Writing independently.
 
-* 3.	Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans		Hongkong, China
+* 3	Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans		Hongkong, China
 * Co-first author, In submission &emsp; &emsp; &emsp; Jun. 2022 - Jul. 2023
 * 	Novel Orthomyxoviridae identified. Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
 * 	Ancestral states of the novel viruses and host associations analysis.
 
 
-* 4.	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic * Level   Shenzhen, China First author, Upcoming Graduation Thesis &emsp; &emsp; &emsp; &emsp; Sep. 2022 - Present
+* 4	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic * Level   Shenzhen, China First author, Upcoming Graduation Thesis &emsp; &emsp; &emsp; &emsp; Sep. 2022 - Present
 * 	Completed genome assembly using third-generation ONT sequencing data and Hi-C data.
 * 	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed RNA libraries, and performed independent third-generation full-length cDNA ONT sequencing.
 * 	Conducted gene functional annotation amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
 * 	Performed inner genomic collinearity analysis, unique and shared gene family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in _Gecarcoidea lalandii_.
 Additionally, scrutinized for genes under positive selection in _Gecarcoidea lalandii_, with the objective of elucidating the driving factors behind its adaptive evolution (terrestrial adaptation).
 
-* 5.	Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs	
+* 5	Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs	
 Hongkong, China
 * Co-first author, In Analysis &emsp; &emsp; &emsp; &emsp; Nov. 2022 - Present
 * 	Led three Sesarmidae genome assemblies using third-generation ONT sequencing data.
@@ -74,13 +74,13 @@ ACADEMIC ACTIVITIES AND PUBLICATION
 
 ADDITIONAL EXPERIENCE
 ======
-* 1.	Undergraduate Ecological Comprehensive Experiment &emsp; &emsp; &emsp; Mar. 2022 - Jun. 2022 
+* 1	Undergraduate Ecological Comprehensive Experiment &emsp; &emsp; &emsp; Mar. 2022 - Jun. 2022 
 * Experimental teaching assistant in the 2021 autumn semester 	High-Throughput Sequencing Module
-* 2.	English - Chinese translation of a sustainable development report &emsp; &emsp; &emsp; Oct. 2022 - Nov. 2022 
+* 2	English - Chinese translation of a sustainable development report &emsp; &emsp; &emsp; Oct. 2022 - Nov. 2022 
 * United Nations Volunteers &emsp; &emsp; &emsp; &emsp; &emsp; Translator
-* 3.	Undergraduate Biochemical Experiment &emsp; &emsp; &emsp; Oct. 2022 - Jan. 2023 
+* 3	Undergraduate Biochemical Experiment &emsp; &emsp; &emsp; Oct. 2022 - Jan. 2023 
 * Experimental teaching assistant in the 2022 autumn semester &emsp; &emsp; &emsp; Biochemical Experiment
-* 4.	Undergraduate Ecological Comprehensive Experiment	&emsp; &emsp; &emsp; Mar. 2023 - Jun. 2023 
+* 4	Undergraduate Ecological Comprehensive Experiment	&emsp; &emsp; &emsp; Mar. 2023 - Jun. 2023 
 * Experimental teaching assistant in the 2022 spring semester &emsp; &emsp; High-Throughput Sequencing Module
 
   
