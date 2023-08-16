@@ -13,13 +13,13 @@ EDUCATION
 ======
 
 **Sun Yat-sen University**
-* Master in Science degree                                                                                                   <p>Aug. 2021 - Present
+* Master in Science degree —————— Aug. 2021 - Present
 * Majors: **Ecology** (honors program: Evolutionary Ecology) Cumulative
 * GPA: **3.5 (85.65/100)**
 * Anticipated Core Courses: **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
 
 **Fujian Agriculture and Forestry University**								         
-* Bachelor of Agriculture degree, summa cum laude					 Sep. 2017 - Jun. 2021 
+* Bachelor of Agriculture degree, summa cum laude —————— Sep. 2017 - Jun. 2021 
 * Majors: **Plant Science** and **Technology** (honors program, quantitative focus) Cumulative
 * GPA: **3.5 (85/100)**
 * Relevant Courses: Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
