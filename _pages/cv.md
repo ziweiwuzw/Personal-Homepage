@@ -36,7 +36,7 @@ RESEARCH EXPERIENCE
 * Student Leaders & Advisors, iGEM Project &emsp; &emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
 * * 	Led mathematical modeling experiments, **including**
-* * 	**Designing** a <u>Logistic growth model</u> for microalgae based on growth trends.
+* * 	**Designing** a ==Logistic growth== model for microalgae based on growth trends.
 * * 	**Developed** optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
 
 * 2	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp &emsp; Shenzhen, China
