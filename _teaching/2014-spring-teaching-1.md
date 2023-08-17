@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Ecological Comprehensive Experiment in 2021 autumn semester"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021-autumn-teaching-1
+venue: "Sun Yat-sen University , School of Ecology"
+date: 2022-03-01
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Responsible for the high-throughput sequencing module, the course encompasses the following components:
 
-Heading 1
-======
+**1. Genomic Second-generation Library Construction (utilizing TN5 transposase method):**
+* Constructing genomic second-generation sequencing libraries using the TN5 transposase technique to acquire genomic DNA sequence information, providing a foundational dataset for genomic research.
 
-Heading 2
-======
+**2. Gill ATAC-seq Library Construction:**
+* Employing ATAC-seq technology to build libraries from gill samples, investigating open chromatin regions and unveiling gene expression regulatory mechanisms.
 
-Heading 3
-======
+**3. Gill TRACE-Seq RNA seq Library Construction:**
+* Employing TRACE-Seq technology to craft RNA sequencing libraries from gill samples, conducting in-depth analyses of gene expression and transcriptional changes, thereby probing molecular responses under different conditions.
+
+**4. Environmental Microbial Second and Third-generation Library Sequencing:**
+* Applying second and third-generation sequencing technologies to construct and sequence libraries from environmental microbial communities, uncovering microbial diversity and potential functions.
+
+**5. Bioinformatics Section—Data Processing (ATAC-seq, RNA-seq, Metagenomic Analysis):**
+* Responsible for the processing and analysis of ATAC-seq, RNA-seq, and metagenomic data, extracting information pertinent to genomes, transcriptomes, and microbial communities from sequencing data to underpin research findings.
