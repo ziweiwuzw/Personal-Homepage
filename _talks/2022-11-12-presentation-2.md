@@ -8,7 +8,5 @@ date: 2022-11-12
 location: "Heibei Province, China"
 ---
 
-[More information here](http://example2.com)
-
-I have shared typical physiological responses of the _Penaeus vannamei_ regarding viruses and bacteria in three distinct tissues.
-
+[More information here](https://ziweiwuzw.github.io/Personal-Homepage/files/ABSTRACT COMPILCATION FOR THE 16th SYMPOSIUMOF CRUSTACEAN SOCIETY.pdf)
+_Note: My conference abstract is on page 124._
