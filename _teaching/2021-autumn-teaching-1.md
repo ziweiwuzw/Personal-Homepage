@@ -19,4 +19,3 @@ Responsible for the high-throughput sequencing module, the course encompasses th
 * &emsp; Applying second and third-generation sequencing technologies to construct and sequence libraries from environmental microbial communities, uncovering microbial diversity and potential functions.
 * **5. Bioinformatics Section—Data Processing (ATAC-seq, RNA-seq, Metagenomic Analysis):**
 * &emsp; Responsible for the processing and analysis of ATAC-seq, RNA-seq, and metagenomic data, extracting information pertinent to genomes, transcriptomes, and microbial communities from sequencing data to underpin research findings.
-* Responsible for the processing and analysis of ATAC-seq, RNA-seq, and metagenomic data, extracting information pertinent to genomes, transcriptomes, and microbial communities from sequencing data to underpin research findings.
