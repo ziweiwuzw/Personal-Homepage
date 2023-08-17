@@ -86,6 +86,6 @@ ADDITIONAL EXPERIENCE
 SKILLS AND HOBBIE
 ======
 * **Software:** Novice in R (Preferred for plotting), Moderate skill in Shell programming (Primary tools), Familiar with Python (Supplementary tools), Limited exposure to Java
-* **Hobbies:** Avid Reader & Passionate Cook & Food Enthusiast
+* **Hobbies:** Avid Reader & Passionate Cook & Food Enthusiast & :cat: lover
 
   
