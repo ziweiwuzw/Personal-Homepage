@@ -3,7 +3,7 @@ title: "Undergraduate Ecological Comprehensive Experiment in 2022 autumn semeste
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-autumn-teaching-3
-venue: "Sun Yat-sen University , School of Ecology"
+venue: "Sun Yat-sen University, School of Ecology"
 date: 2023-03-01
 location: "Shenzhen, China"
 ---
