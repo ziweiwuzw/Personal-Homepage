@@ -14,19 +14,19 @@ EDUCATION
 
 **Sun Yat-sen University**
 * Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Aug. 2021 - Present
-* Majors: **Ecology** (honors program: Evolutionary Ecology)
-* Cumulative GPA: **3.5 (85.65/100)**
-* Anticipated Core Courses: **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
+* **Majors:** **Ecology** (honors program: Evolutionary Ecology)
+* **Cumulative GPA:** **3.5 (85.65/100)**
+* **Anticipated Core Courses:** **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
 
 **Fujian Agriculture and Forestry University**								         
 * Bachelor of Agriculture degree, summa cum laude &emsp; &emsp; &emsp; &emsp; Sep. 2017 - Jun. 2021 
-* Majors: **Plant Science** and **Technology** (honors program, quantitative focus) Cumulative
-* GPA: **3.5 (85/100)**
-* Relevant Courses: Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
+* **Majors:** **Plant Science** and **Technology** (honors program, quantitative focus)
+* **Cumulative GPA:** **3.5 (85/100)**
+* **Relevant Courses:** Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
 Theory, **Biological Data**, Experimental Designs and Statistical Analyses, **Genetics 
 (Bilingual Course)**, **Molecular Genetics**, Plant Cell Biology, Agroecology, **Biological Data 
 Analysis**, Plant Biotechnology
-* Honors: [Gold](https://2021.igem.org/Team:CHINA-FAFU) and [Bronze](https://2019.igem.org/Team:FAFU-CHINA)  **Awards at the International Genetically Engineered Machine (iGEM)** in 2021 
+* **Honors:** [Gold](https://2021.igem.org/Team:CHINA-FAFU) and [Bronze](https://2019.igem.org/Team:FAFU-CHINA)  **Awards at the International Genetically Engineered Machine (iGEM)** in 2021 
 and 2019, respectively, **Nominated for Best Sustainability (7/320 international student team) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
 
 
@@ -36,35 +36,34 @@ RESEARCH EXPERIENCE
 * Student Leaders & Advisors, iGEM Project &emsp; &emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
 * * 	Led mathematical modeling experiments, **including**
-* * 	**Designing** a ==Logistic growth== model for microalgae based on growth trends.
-* * 	**Developed** optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
+* * 	**Designing** a [Logistic growth model](https://2021.igem.org/Team:CHINA-FAFU/Model)  for microalgae based on _growth trends_.
+* * 	**Developed** [optimization models](https://2021.igem.org/Team:CHINA-FAFU/Model)  using cost and time data to _predict optimal cultivation conditions_ and evaluate microalgae factory _cost-effectiveness and profitability_.
 
-* 2	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp &emsp; Shenzhen, China
+* 2	[Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp](https://www.mdpi.com/2077-1312/11/2/389)  &emsp; Shenzhen, China
 * First author, Published&emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;  &emsp; Feb. 2022 - Jan. 2023
-* 	Gathered nine RNA-Seq project datasets from the NCBI SRA and finally obtained 109 transcriptome expression profiles.
-* 	Generated innovative ideas to enhance project outcomes.
-* 	Proficiently acquired expertise in Shell scripting and effectively utilized R programming languages, which enabled me to complete the Data Processing, Plot Generation, and Initial Draft Writing independently.
+* 	Gathered _nine RNA-Seq project datasets_ from the NCBI SRA and finally obtained _109 transcriptome expression profiles_.
+* 	Generated **innovative ideas** to enhance project outcomes.
+* 	Proficiently acquired expertise in **Shell scripting** and effectively utilized **R programming languages**, which enabled me to complete the Data Processing, Plot Generation, and Initial Draft Writing independently.
 
-* 3	Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans &emsp;  &emsp; Hongkong, China
-* Co-first author, In submission &emsp; &emsp; &emsp;  &emsp;  &emsp; Jun. 2022 - Jul. 2023
-* 	Novel Orthomyxoviridae identified. Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
-* 	Ancestral states of the novel viruses and host associations analysis.
+* 3	**Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans** &emsp;  &emsp; Hongkong, China
+* **Co-first author**, In submission &emsp; &emsp; &emsp;  &emsp;  &emsp; Jun. 2022 - Jul. 2023
+* 	**Novel Orthomyxoviridae identified.** Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
+* 	**Ancestral states of the novel viruses and host associations analysis.**
 
 
-* 4	Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level &emsp;  &emsp; Shenzhen, China
-* First author, Upcoming Graduation Thesis &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; Sep. 2022 - Present
-* 	Completed genome assembly using third-generation ONT sequencing data and Hi-C data.
-* 	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed RNA libraries, and performed independent third-generation full-length cDNA ONT sequencing.
-* 	Conducted gene functional annotation amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
-* 	Performed inner genomic collinearity analysis, unique and shared gene family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in _Gecarcoidea lalandii_.
-Additionally, scrutinized for genes under positive selection in _Gecarcoidea lalandii_, with the objective of elucidating the driving factors behind its adaptive evolution (terrestrial adaptation).
+* 4	**Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level** &emsp;  &emsp; Shenzhen, China
+* **First author**, Upcoming **Graduation Thesis** &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; Sep. 2022 - Present
+* 	Completed **genome assembly** using third-generation ONT sequencing data and Hi-C data.
+* 	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed **RNA libraries**, and performed **independent** third-generation **full-length cDNA ONT sequencing**.
+* 	Conducted **gene functional annotation** amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
+* 	Performed inner **genomic collinearity analysis, unique and shared gene family assessment**, and **positive selection analysis** to identify distinctive gene families, significant expansions, and contractions in _Gecarcoidea lalandii_.
+Additionally, scrutinized for _genes under positive selection_ in _Gecarcoidea lalandii_, with the objective of elucidating the driving factors behind its adaptive evolution (_terrestrial adaptation_).
 
-* 5	Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs &emsp;  Hongkong, China
-* Co-first author, In Analysis &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; Nov. 2022 - Present
-* 	Led three Sesarmidae genome assemblies using third-generation ONT sequencing data.
-* 	Conducted gene functional annotation (especially the annotation of CAZymes) using transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
-* 	Performed three crabs’ genomic collinearity analysis, CAZymes family assessment, and positive selection analysis to identify distinctive gene families, significant expansions, and contractions in _Sesarmidae_.
-* 	Combining metagenomics and metatranscriptomics to reveal the molecular mechanism and evolutionary process of crab degradation of lignocellulose.
+* 5	**Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs** &emsp;  Hongkong, China
+* **Co-first author**, In Analysis &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; Nov. 2022 - Present
+* 	Led **three Sesarmidae genome assemblies** using third-generation ONT sequencing data.
+* 	Conducted **gene functional annotation (especially the annotation of CAZymes)** using transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
+* 	Performed **three crabs’ genomic collinearity analysis, CAZymes family assessment, and positive selection analysis** to identify distinctive gene families, significant expansions, and contractions in _Sesarmidae_.
   
 ACADEMIC ACTIVITIES AND PUBLICATION
 ======
@@ -86,7 +85,7 @@ ADDITIONAL EXPERIENCE
   
 SKILLS AND HOBBIE
 ======
-* Software: Novice in R (Preferred for plotting), Moderate skill in Shell programming (Primary tools), Familiar with Python (Supplementary tools), Limited exposure to Java
-* Hobbies: Avid Reader & Passionate Cook & Food Enthusiast
+* **Software:** Novice in R (Preferred for plotting), Moderate skill in Shell programming (Primary tools), Familiar with Python (Supplementary tools), Limited exposure to Java
+* **Hobbies:** Avid Reader & Passionate Cook & Food Enthusiast
 
   
