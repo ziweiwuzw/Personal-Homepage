@@ -32,12 +32,12 @@ and 2019, respectively, **Nominated for Best Sustainability (7/320 international
 
 RESEARCH EXPERIENCE
 ======
-* 1	Microscopic Algae, "Macroscopic" Energy &emsp; &emsp; &emsp; Fuzhou, China
+* 1	[Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU)  &emsp; &emsp; &emsp; Fuzhou, China
 * Student Leaders & Advisors, iGEM Project &emsp; &emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
-* * 	Led mathematical modeling experiments, including 
-* * 	Designing a Logistic growth model for microalgae based on growth trends.
-* * 	Developed optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
+* * 	Led mathematical modeling experiments, **including**
+* * 	**Designing** a <u>Logistic growth model</u> for microalgae based on growth trends.
+* * 	**Developed** optimization models using cost and time data to predict optimal cultivation conditions and evaluate microalgae factory cost-effectiveness and profitability.
 
 * 2	Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp &emsp; Shenzhen, China
 * First author, Published&emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;  &emsp; Feb. 2022 - Jan. 2023
