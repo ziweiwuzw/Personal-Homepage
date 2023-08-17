@@ -1,5 +1,5 @@
 ---
-title: "Transcriptome Analysis of Multiple Tissues in the Shrimp Penaeus vannamei Reveals the Typical Physiological Response to Three Pathogens"
+title: "Transcriptome Analysis of Multiple Tissues in the Shrimp _Penaeus vannamei_ Reveals the Typical Physiological Response to Three Pathogens"
 collection: publications
 permalink: /publication/2023-02-09-paper-title-number-2
 excerpt: 'This paper highlights the resistance mechanisms of shrimp in response to a diverse array of pathogens.'
