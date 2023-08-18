@@ -13,7 +13,7 @@ EDUCATION
 ======
 
 **Sun Yat-sen University(SYSU)**
-* Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; Aug. 2021 - Present
+* Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; Aug. 2021 - Present
 * **Majors:** **Ecology** (honors program: Evolutionary Ecology)
 * **Cumulative GPA:** **3.5 (85.65/100)**
 * **Anticipated Core Courses:** **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
@@ -32,8 +32,8 @@ and 2019, respectively, **Nominated for Best Sustainability (7/320 international
 
 RESEARCH EXPERIENCE
 ======
-* 1	[Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU)  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Fuzhou, China
-* Student Leaders & Advisors, iGEM Project &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
+* 1	[Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU)  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Fuzhou, China
+* Student Leaders & Advisors, iGEM Project &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Jun. 2018 - Nov. 2021
 * * 	Led the construction of transgenic algal strains to enhance carbon dioxide fixation and lipid synthesis metabolism by overexpressing critical genes in the ascorbic acid metabolic pathway.
 * * 	Led mathematical modeling experiments, **including**
 * * 	**Designing** a [Logistic growth model](https://2021.igem.org/Team:CHINA-FAFU/Model)  for microalgae based on _growth trends_.
@@ -52,14 +52,14 @@ RESEARCH EXPERIENCE
 
 
 * 4	**Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level** &emsp; Shenzhen, China
-* **First author**, Upcoming **Graduation Thesis** &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp; Sep. 2022 - Present
+* **First author**, Upcoming **Graduation Thesis** &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp; &emsp; Sep. 2022 - Present
 * 	Completed **genome assembly** using third-generation ONT sequencing data and Hi-C data.
 * 	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed **RNA libraries**, and performed **independent** third-generation **full-length cDNA ONT sequencing**.
 * 	Conducted **gene functional annotation** amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
 * 	Performed inner **genomic collinearity analysis, unique and shared gene family assessment**, and **positive selection analysis** to identify distinctive gene families, significant expansions, and contractions in _Gecarcoidea lalandii_.
 Additionally, scrutinized for _genes under positive selection_ in _Gecarcoidea lalandii_, with the objective of elucidating the driving factors behind its adaptive evolution (_terrestrial adaptation_).
 
-* 5	**Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs** &emsp; &emsp; &emsp; &emsp; &emsp; Hongkong, China
+* 5	**Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs** &emsp; &emsp; &emsp; Hongkong, China
 * **Co-first author**, In Analysis &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; Nov. 2022 - Present
 * 	Led **three Sesarmidae genome assemblies** using third-generation ONT sequencing data.
 * 	Conducted **gene functional annotation (especially the annotation of CAZymes)** using transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
