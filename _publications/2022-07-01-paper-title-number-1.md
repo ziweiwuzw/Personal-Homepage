@@ -12,6 +12,7 @@ citation: 'Veresoglou, S.D., Chen, J., Wu, Z. et al. (2023). No tillage outperfo
 
 * [Download paper here](https://ziweiwuzw.github.io/Personal-Homepage/files/paper1.pdf)
 
+* Recommended citation: Veresoglou, S.D., Chen, J., Wu, Z. et al. (2023). No tillage outperforms conventional tillage under arid conditions and following fertilization. Soil Ecol. Lett. 5, 137–141 (2023).
 
 
 
