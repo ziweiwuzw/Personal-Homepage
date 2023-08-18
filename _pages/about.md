@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hey👋 there, I'm a third-year grad student hailing from 📚[School of ECO-EVO](https://eco.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/). My curiosity knows no bounds – I'm deeply captivated by the secrets of genome evolution, the enigmatic world of bioinformatics, the intricate art of deciphering phylogenetic relationships, and yes, even the wizardry of machine learning🧬💻! 
+Hey there👋, I'm a third-year grad student hailing from 📚[School of ECO-EVO](https://eco.sysu.edu.cn/), [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/). My curiosity knows no bounds – I'm deeply captivated by the secrets of genome evolution, the enigmatic world of bioinformatics, the intricate art of deciphering phylogenetic relationships, and yes, even the wizardry of machine learning🧬💻! 
 
 
 Under the gracious guidance of Professor KaYan Ma from the [ABEL Lab](https://abel-sysu.github.io/en/) from [School of Ecology](https://eco.sysu.edu.cn/), Sun Yat-Sen University🌱🙏. So here's to science, discovery, and endless cups of coffee – let's make some breakthroughs together! ☕🔍🚀
