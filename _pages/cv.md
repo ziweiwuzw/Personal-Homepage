@@ -12,13 +12,13 @@ redirect_from:
 EDUCATION
 ======
 
-**Sun Yat-sen University**
+**Sun Yat-sen University(SYSU)**
 * Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Aug. 2021 - Present
 * **Majors:** **Ecology** (honors program: Evolutionary Ecology)
 * **Cumulative GPA:** **3.5 (85.65/100)**
 * **Anticipated Core Courses:** **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
 
-**Fujian Agriculture and Forestry University**								         
+**Fujian Agriculture and Forestry University(FAFU)**								         
 * Bachelor of Agriculture degree, summa cum laude &emsp; &emsp; &emsp; &emsp; Sep. 2017 - Jun. 2021 
 * **Majors:** **Plant Science** and **Technology** (honors program, quantitative focus)
 * **Cumulative GPA:** **3.5 (85/100)**
