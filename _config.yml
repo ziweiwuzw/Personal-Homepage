@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziwei Wu / Welcome To My Spaces"
+title                    : "Ziwei(Zoe) Wu / Welcome To My Spaces"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziwei Wu | 吴梓微 "
+  name             : "Ziwei(Zoe) Wu | 吴梓微 "
   avatar           : "Me.png"
   bio              : "We all become cosmic dust, eventually. 
   May my existence find meaning, sincerely. "
