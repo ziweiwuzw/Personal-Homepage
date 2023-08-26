@@ -2,9 +2,9 @@
 title: "THE 16th SYMPOSIUMOF CRUSTACEAN SOCIETY"
 collection: talks
 type: "Oral Presentation"
-permalink: /talks/2022-11-12-presentation-1
+permalink: /talks/2022-11-13-presentation-1
 venue: "China Society of Oceanology and Limnology / Crustacean Branch of the China Zoological Society / Hebei University"
-date: 2022-11-12
+date: 2022-11-13
 location: "Heibei Province, China"
 ---
 
