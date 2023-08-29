@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Biochemical Experiment in 2022 spring semester"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Sun Yat-sen University, School of Ecology"
 date: 2022-10-01
