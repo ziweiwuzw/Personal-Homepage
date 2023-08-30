@@ -3,7 +3,7 @@ permalink: /me/
 title: "All About Me"
 author_profile: true
 redirect_from: 
-  - /me/
+  - /Me/
   - /me.html
 ---
 
