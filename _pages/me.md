@@ -1,9 +1,9 @@
 ---
-permalink: /me/
+permalink: /Me/
 title: "All About Me"
 author_profile: true
 redirect_from: 
-  - /Me/
+  - /me/
   - /me.html
 ---
 
