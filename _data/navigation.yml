@@ -9,6 +9,9 @@ main:
   - title: "Moment"
     url: /year-archive/
   
+  - title: "All about Me"
+    url: /me/
+
   - title: "Contact"
     url: /portfolio/
     
