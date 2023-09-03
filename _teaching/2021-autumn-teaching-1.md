@@ -8,7 +8,7 @@ date: 2022-03-01
 location: "Shenzhen, China"
 ---
 
-Responsible for the high-throughput sequencing module, the course encompasses the following components:
+I am primarily responsible for preparing experimental reagents, conducting preliminary experiments, and guiding students. The course encompasses the following components:
 * **1. Construction of second-generation genomic libraries using DNA from crucian carp (utilizing TN5 transposase method).**
 * &emsp; 
 * **2. Crucian carp gill ATAC-seq Library Construction:**
