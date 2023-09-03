@@ -9,7 +9,7 @@ main:
   - title: "Moment"
     url: /year-archive/
   
-  - title: "All about Me"
+#  - title: "All about Me"
     url: /Me/
 
   - title: "Contact"
