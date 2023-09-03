@@ -10,7 +10,7 @@ main:
     url: /year-archive/
   
 #  - title: "All about Me"
-    url: /Me/
+#    url: /Me/
 
   - title: "Contact"
     url: /portfolio/
