@@ -27,7 +27,7 @@ Theory, **Biological Data**, Experimental Designs and Statistical Analyses, **Ge
 (Bilingual Course)**, **Molecular Genetics**, Plant Cell Biology, Agroecology, **Biological Data 
 Analysis**, Plant Biotechnology
 * **Honors:** [Gold](https://2021.igem.org/Team:CHINA-FAFU) and [Bronze](https://2019.igem.org/Team:FAFU-CHINA)  **Awards at the International Genetically Engineered Machine (iGEM)** in 2021 
-and 2019, respectively, **Nominated for Best Sustainability (7/320 international student team) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
+and 2019, respectively, **Nominated for Best Sustainability (7/320 international student teams) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
 
 
 RESEARCH EXPERIENCE
