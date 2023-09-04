@@ -67,9 +67,9 @@ Additionally, scrutinized for _genes under positive selection_ in _Gecarcoidea l
 
 ACADEMIC ACTIVITIES AND PUBLICATION
 ======
-* 	Wu ZW, Chu KH, Ma KY. Transcriptome analysis of multiple tissues of Penaeus vannamei reveals the typical physiological response to the invasion of three pathogens, Dialogue with fantastic creatures—SYSU&HKU paleontology theme workshop, 15-17 Oct 2022, Guangdong Province, China (oral presentation).
-* 	Wu ZW, Chu KH, Ma KY. Transcriptome analysis of multiple tissues of Penaeus vannamei reveals the typical physiological response to the invasion of three pathogens, THE 16th SYMPOSIUMOF CRUSTACEAN SOCIETY, 12-13 Nov 2022, Heibei Province, China (oral presentation).
-* 	Wu Z, Chu KH*, Ma KY*. Transcriptome Analysis of Multiple Tissues in the Shrimp Penaeus vannamei Reveals the Typical Physiological Response to Three Pathogens[J]. Journal of Marine Science and Engineering. 2023; 11(2):389.
+	[1] Wu ZW, Chu KH*, Ma KY*. Transcriptome Analysis of Multiple Tissues in the Shrimp Penaeus vannamei Reveals the Typical Physiological Response to Three Pathogens[J]. Journal of Marine Science and Engineering. 2023; 11(2):389.
+	[2] Wu ZW, Chu KH, Ma KY. Transcriptome analysis of multiple tissues of Penaeus vannamei reveals the typical physiological response to the invasion of three pathogens, THE 16th SYMPOSIUMOF CRUSTACEAN SOCIETY, 12-13 Nov 2022, Heibei Province, China (oral presentation).
+	[3] Wu ZW, Chu KH, Ma KY. Transcriptome analysis of multiple tissues of Penaeus vannamei reveals the typical physiological response to the invasion of three pathogens, Dialogue with fantastic creatures—SYSU&HKU paleontology theme workshop, 15-17 Oct 2022, Guangdong Province, China (oral presentation).
 
 ADDITIONAL EXPERIENCE
 ======
@@ -86,7 +86,7 @@ ADDITIONAL EXPERIENCE
   
 SKILLS AND HOBBIE
 ======
-* **Software:** Novice in R (Preferred for plotting), Moderate skill in Shell programming (Primary tools), Familiar with Python (Supplementary tools), Limited exposure to Java
-* **Hobbies:** Avid Reader & Passionate Cook & Food Enthusiast & animal lover
+* **Software:** Proficient in R (Preferred for analysis and plotting), Strong command of Shell programming (Primary tools), Familiar with Python (Supplementary tools), Limited exposure to Perl
+* **Hobbies:** Avid Reader & Passionate Cook & Food Enthusiast & Animal lover
 
   
