@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Biochemical Experiment in 2022 spring semester"
+title: "Undergraduate Biochemical Experiments in 2022 spring semester"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
