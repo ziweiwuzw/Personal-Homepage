@@ -102,7 +102,7 @@ REFERENCES
 ======
 **Ka Yan MA, Associate Professor**
 <address>
-  Ka Yan MA, Associate Professor<br /> School of Ecology<br /> Sun Yat-Sen University<br /> makayana@gmail.com
+  School of Ecology<br /> Sun Yat-Sen University<br /> makayana@gmail.com
 </address>
 
 
