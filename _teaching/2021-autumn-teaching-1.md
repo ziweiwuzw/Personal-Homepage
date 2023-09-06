@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Ecological Comprehensive Experiment in 2021 autumn semester"
+title: "Undergraduate Comprehensive Experiment in Ecology 2021 autumn semester"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-autumn-teaching-1
@@ -16,5 +16,5 @@ I am primarily responsible for _preparing experimental reagents, conducting prel
 * &emsp; Utilizing TRACE-Seq to convert RNA from fish gills into cDNA and constructing cDNA libraries using the TN5 transposase method.
 * **4. Environmental Microbial Second and Third-generation Library Sequencing:**
  &emsp; Applying second-generation (Tn5) and third-generation (ONT) sequencing technologies to construct environmental microbial community libraries and sequence them, revealing microbial diversity and potential functions.
-* **5. Bioinformatics Section—Data Processing (ATAC-seq, RNA-seq, Metagenomic Analysis):**
+* **5. Bioinformatics component(ATAC-seq, RNA-seq, Metagenomic Analysis):**
  &emsp; Responsible for instructing RNA-seq data processing and analysis.
