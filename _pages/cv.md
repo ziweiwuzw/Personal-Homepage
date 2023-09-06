@@ -13,29 +13,29 @@ EDUCATION
 ======
 
 **Sun Yat-Sen University**
-*Aug. 2021 - Present
-*Master in Science
-*Major: 	Ecology (honors program: Evolutionary Ecology)
-*Cumulative GPA:	3.5 (85.65/100)
-*Core Courses: 	Evolutionary Ecology, Seminar in Ecology and Evolution, Data Analysis in R
+Aug. 2021 - Present
+Master in Science
+Major: 	Ecology (honors program: Evolutionary Ecology)
+Cumulative GPA:	3.5 (85.65/100)
+Core Courses: 	Evolutionary Ecology, Seminar in Ecology and Evolution, Data Analysis in R
+
 
 **Fujian Agriculture and Forestry University**
-*Sep. 2017 - Jun. 2021
-*Bachelor of Agriculture, summa cum laude
-*Majors: 			Plant Science and Technology
-*Cumulative GPA:		3.4/4
-*Relevant Courses:	Microbiology, Genetics (Bilingual 	Course), Molecular Genetics, Biological 	Data Analysis, Organic Chemistry B, 	Plant Physiology A, Biochemistry B, 	Probability Theory, Experimental 	Designs and Statistical Analyses, Plant 	Cell Biology, Agroecology, Plant 	Biotechnology	
+Sep. 2017 - Jun. 2021
+Bachelor of Agriculture, summa cum laude
+Majors: 			Plant Science and Technology
+Cumulative GPA:		3.4/4
+Relevant Courses:	Microbiology, Genetics (Bilingual 	Course), Molecular Genetics, Biological 	Data Analysis, Organic Chemistry B, 	Plant Physiology A, Biochemistry B, 	Probability Theory, Experimental 	Designs and Statistical Analyses, Plant  Cell Biology, Agroecology, Plant 	Biotechnology	
 
 RESEARCH EXPERIENCE
 ======
-
-* 1.**Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs**
-* Nov. 2022 - Present
+   1.**Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs**
+Nov. 2022 - Present
 **Co-first author**, in progress, in collaboration with The Chinese University of Hong Kong	
-*	Led the assembly of three Sesarmidae genomes.
-*	Conducted gene functional annotations, focusing on CAZymes, using public databases. 
-*	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families and expansions/contractions. 
-*	Combined metagenomics and metatranscriptomics to uncover crab lignocellulose degradation mechanisms and evolution.
+	Led the assembly of three Sesarmidae genomes.
+	Conducted gene functional annotations, focusing on CAZymes, using public databases. 
+	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families and expansions/contractions. 
+	Combined metagenomics and metatranscriptomics to uncover crab lignocellulose degradation mechanisms and evolution.
 
 
 * 2	**Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level** &emsp; &emsp; Shenzhen, China
