@@ -29,35 +29,30 @@ EDUCATION
 RESEARCH EXPERIENCE
 ======
   1. **Multi-omics study on the lignocellulose degradation by holobionts in mangrove sesarmid crabs: a game-changer for terrestrialization**
-
-  2. x
-  3. x
-  4. x
-  5. 
 * Nov. 2022 - Present
 **Co-first author**, in progress, in collaboration with The Chinese University of Hong Kong	
 * 	Led the assembly of three Sesarmidae genomes.
 * 	Conducted gene functional annotations, focusing on CAZymes, using public databases. 
 * 	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families and expansions/contractions. 
 * 	Combined metagenomics and metatranscriptomics to uncover crab lignocellulose degradation mechanisms and evolution.
-  2. **Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level**
+* 2. **Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level**
 * Sep. 2022 - Present
 * **First author**, Master thesis
 * 	Performed chromosome-genome assembly using ONT and Hi-C data. 
 * 	Extracted RNA from five tissues(Heart, Hepatopancreas, Testis, Muscles, Gills), self-constructed RNA libraries, and full-length cDNA ONT sequencing.
 * 	Gene functional annotation.
 * 	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families, expansions/contractions, and positive selection to understand its adaptive terrestrial evolution.
-  3. **Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans**
+* 3. **Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans**
 * Jun. 2022 - Jul. 2023
 * **Co-first author**, submitted to Current Biology (Cell Press) in collaboration with The Hong Kong Polytechnic University				 
 * 	Constructed the phylogenetic tree for the newly recognized viruses alongside known members of Orthomyxoviridae. 
 * 	Analyzed the ancestral states of the novel viruses and their host associations.
-  4. [Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp](https://www.mdpi.com/2077-1312/11/2/389)
+* 4. [Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp](https://www.mdpi.com/2077-1312/11/2/389)
 * Feb. 2022 - Jan. 2023
 * **First author**, completed
 * 	Gathered nine RNA-Seq project datasets from the NCBI SRA and finally obtained 109 transcriptome expression profiles.
 * 	Data Quality Control, Differential Expression Analysis, and Enrichment Analysis (including Gene Ontology and Kyoto Encyclopedia of Genes Pathway Analysis)
-  5. [Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU) 
+* 5. [Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU) 
 * Jun. 2018 - Nov. 2021
 * Student Leaders & Advisors, iGEM Project 
 * 	Constructed transgenic algal strains improve carbon dioxide fixation and lipid synthesis by overexpressing essential genes in the ascorbic acid metabolic pathway.
