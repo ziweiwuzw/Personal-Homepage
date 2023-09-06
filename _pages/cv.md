@@ -12,22 +12,20 @@ redirect_from:
 EDUCATION
 ======
 
-**Sun Yat-sen University(SYSU)**
-* Master in Science degree &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Aug. 2021 - Present
-* **Majors:** **Ecology** (honors program: Evolutionary Ecology)
-* **Cumulative GPA:** **3.5 (85.65/100)**
-* **Anticipated Core Courses:** **Evolutionary Ecology**, Seminar in Ecology and Evolution, Data Analysis in R
+**Sun Yat-Sen University**\
+Aug. 2021 - Present
+Master in Science
+Major: 	Ecology (honors program: Evolutionary Ecology)
+Cumulative GPA:	3.5 (85.65/100)
+Core Courses: 	Evolutionary Ecology, Seminar in Ecology and Evolution, Data Analysis in R
+	
 
-**Fujian Agriculture and Forestry University(FAFU)**								         
-* Bachelor of Agriculture degree, summa cum laude &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep. 2017 - Jun. 2021 
-* **Majors:** **Plant Science** and **Technology** (honors program, quantitative focus)
-* **Cumulative GPA:** **3.5 (85/100)**
-* **Relevant Courses:** Organic Chemistry B, **Microbiology**, Plant Physiology A, Biochemistry B, Probability 
-Theory, **Biological Data**, Experimental Designs and Statistical Analyses, **Genetics 
-(Bilingual Course)**, **Molecular Genetics**, Plant Cell Biology, Agroecology, **Biological Data 
-Analysis**, Plant Biotechnology
-* **Honors:** [Gold](https://2021.igem.org/Team:CHINA-FAFU) and [Bronze](https://2019.igem.org/Team:FAFU-CHINA)  **Awards at the International Genetically Engineered Machine (iGEM)** in 2021 
-and 2019, respectively, **Nominated for Best Sustainability (7/320 international student teams) at iGEM in 2021**, Second Prize Scholarship (8% students), Advanced Individual in Social Work, and Excellent Volunteer in Cangshan District
+**Fujian Agriculture and Forestry University**
+Sep. 2017 - Jun. 2021
+Bachelor of Agriculture, summa cum laude
+Majors: 			Plant Science and Technology (honor 	program, quantitative focus)
+Cumulative GPA:		3.4/4
+Relevant Courses:	Microbiology, Genetics (Bilingual 	Course), Molecular Genetics, Biological 	Data Analysis, Organic Chemistry B, 	Plant Physiology A, Biochemistry B, 	Probability Theory, Experimental 	Designs and Statistical Analyses, Plant 	Cell Biology, Agroecology, Plant 	Biotechnology	
 
 
 RESEARCH EXPERIENCE
