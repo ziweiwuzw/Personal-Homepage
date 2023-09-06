@@ -28,7 +28,7 @@ EDUCATION
 
 RESEARCH EXPERIENCE
 ======
-  1. **Crabs and Symbiotic Microorganisms: Collaborative Cellulose Degradation Facilitating Radiative Diversity in _Sesarmidae_ — Genomic and Gut Microbiome Macro-genomic Analysis of Crabs**
+  1. **Multi-omics study on the lignocellulose degradation by holobionts in mangrove sesarmid crabs: a game-changer for terrestrialization**
 * Nov. 2022 - Present
 **Co-first author**, in progress, in collaboration with The Chinese University of Hong Kong	
 	Led the assembly of three Sesarmidae genomes.
@@ -36,17 +36,18 @@ RESEARCH EXPERIENCE
 	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families and expansions/contractions. 
 	Combined metagenomics and metatranscriptomics to uncover crab lignocellulose degradation mechanisms and evolution.
   2. **Terrestrial Adaptation Evolution in Land Crabs: Exploring at the Genomic Level**
+* Sep. 2022 - Present
 * **First author**, Master thesis
-	Completed **genome assembly** using third-generation ONT sequencing data and Hi-C data.
-	Individually extracted RNA from five tissues of the Land Crabs (_Gecarcoidea lalandii_), constructed **RNA libraries**, and performed **independent** third-generation **full-length cDNA ONT sequencing**.
-	Conducted **gene functional annotation** amalgamating second and third-generation transcriptomic data and homologous protein information, utilizing the Maker tool and public database.
-	Performed inner **genomic collinearity analysis, unique and shared gene family assessment**, and **positive selection analysis** to identify distinctive gene families, significant expansions, and contractions in _Gecarcoidea lalandii_.
-Additionally, scrutinized for _genes under positive selection_ in _Gecarcoidea lalandii_, with the objective of elucidating the driving factors behind its adaptive evolution (_terrestrial adaptation_).
+	Performed chromosome-genome assembly using ONT and Hi-C data. 
+	Extracted RNA from five tissues(Heart, Hepatopancreas, Testis, Muscles, Gills), self-constructed RNA libraries, and full-length cDNA ONT sequencing.
+	Gene functional annotation.
+	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families, expansions/contractions, and positive selection to understand its adaptive terrestrial evolution.
+  3. 	**Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans**
+  Jun. 2022 - Jul. 2023
+  **Co-first author**, submitted to Current Biology (Cell Press) in collaboration with The Hong Kong Polytechnic University				 
+	Constructed the phylogenetic tree for the newly recognized viruses alongside known members of Orthomyxoviridae. 
+	Analyzed the ancestral states of the novel viruses and their host associations.
 
-* 3	**Uncovering Influenza-Like Virus Clades and New Genera in Invertebrates: Evolutionary Insights into Orthomyxoviridae across Metazoans** &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; Hongkong, China
-* **Co-first author**, In submission &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Jun. 2022 - Jul. 2023
-* 	**Novel Orthomyxoviridae identified.** Constructed phylogenetic relationship of newly identified viruses with known viral members from Orthomyxoviridae.
-* 	**Ancestral states of the novel viruses and host associations analysis.**
 
 * 4	[Transcriptome Analysis of Pathogen-Induced Physiological Responses in Shrimp](https://www.mdpi.com/2077-1312/11/2/389)  &emsp; &emsp; Shenzhen, China
 * First author, Published&emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Feb. 2022 - Jan. 2023
