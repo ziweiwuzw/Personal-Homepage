@@ -14,5 +14,5 @@ Hey there👋, I'm a Year three grad student from 📚[School of Ecology](https:
 
 Under the gracious guidance of Professor KaYan Ma from the [ABEL Lab](https://abel-sysu.github.io/en/)🌱🙏. So here's to science, discovery, and endless cups of coffee – let's make some breakthroughs together! ☕🔍🚀
 
-[CV](https://ziweiwuzw.github.io/Personal-Homepage/files/3.CV-ZoeWu.pdf) / [Email](mailto:ziweiw1998@gmail.com) 
+[CV](https://ziweiwuzw.github.io/Personal-Homepage/files/CV-ZoeWu.pdf) / [Email](mailto:ziweiw1998@gmail.com) 
 ---
