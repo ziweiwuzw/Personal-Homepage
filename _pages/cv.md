@@ -30,7 +30,7 @@ RESEARCH EXPERIENCE
 ======
 *  1. **Multi-omics study on the lignocellulose degradation by holobionts in mangrove sesarmid crabs: a game-changer for terrestrialization**
 * Nov. 2022 - Present
-**Co-first author**, in progress, in collaboration with The Chinese University of Hong Kong	
+* **Co-first author**, in progress, in collaboration with The Chinese University of Hong Kong	
 * 	Led the assembly of three Sesarmidae genomes.
 * 	Conducted gene functional annotations, focusing on CAZymes, using public databases. 
 * 	Analyzed genomic collinearity, evaluated CAZymes families, and identified unique gene families and expansions/contractions. 
@@ -54,7 +54,7 @@ RESEARCH EXPERIENCE
 * 	Data Quality Control, Differential Expression Analysis, and Enrichment Analysis (including Gene Ontology and Kyoto Encyclopedia of Genes Pathway Analysis)
 *  5. [Microscopic Algae, "Macroscopic" Energy](https://2021.igem.org/Team:CHINA-FAFU) 
 * Jun. 2018 - Nov. 2021
-* Student Leaders & Advisors, iGEM Project 
+* **Student Leaders & Advisors**, iGEM Project 
 * 	Constructed transgenic algal strains improve carbon dioxide fixation and lipid synthesis by overexpressing essential genes in the ascorbic acid metabolic pathway.
 * 	Managed mathematical modelling efforts, including:
 * * 	Creation of a Logistic growth model for microalgae based on growth trends.
