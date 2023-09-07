@@ -7,4 +7,4 @@ date: 2024-09-05
 ---
 **_Co-first author_**, submitted to _PLOS Pathogens_ in collaboration with The Hong Kong Polytechnic University
 
-Here, we identified novel virus species from the emerging infectious virus family – Orthomyxoviridae from different animal hosts uncovered their evolutionary history and host shift dynamics by analyzing high-throughput RNA data.  For further insight, you can [Download the paper here](https://ziweiwuzw.github.io/Personal-Homepage/files/publication/paper1(metazoans viruses).pdf)
+Here, we identified novel virus species from the emerging infectious virus family – Orthomyxoviridae from different animal hosts uncovered their evolutionary history and host shift dynamics by analyzing high-throughput RNA data.  For further insight, you can [Download the paper here](https://ziweiwuzw.github.io/Personal-Homepage/files/publication/paper1(metazoans_viruses).pdf)
