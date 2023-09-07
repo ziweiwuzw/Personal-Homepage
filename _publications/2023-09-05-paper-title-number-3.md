@@ -1,7 +1,7 @@
 ---
 title: "Discovery of influenza-like virus clades and new genera in invertebrates and the evolutionary history of Orthomyxoviridae in metazoans"
 collection: publications
-permalink: /publication/2024-09-05-paper-title-number-3
+permalink: /publication/2023-09-05-paper-title-number-3
 excerpt: 'Here, we identified novel virus species from the emerging infectious virus family – Orthomyxoviridae from different animal hosts uncovered their evolutionary history and host shift dynamics by analyzing high-throughput RNA data.'
 date: 2024-09-05
 ---
