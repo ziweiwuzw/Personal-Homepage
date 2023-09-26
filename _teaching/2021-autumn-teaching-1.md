@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Comprehensive Experiment in Ecology 2021 autumn semester"
+title: "Undergraduate Comprehensive Experiment in Ecology in 2021 autumn semester"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-autumn-teaching-1
