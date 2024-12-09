@@ -11,9 +11,13 @@ redirect_from:
 
 EDUCATION
 ======
+**The University of Melbourne (UoM)**
+* Doctor of Philosophy - Medicine, Dentistry and Health Sciences 
+* Major: 	Microbiology and Immunology
+* Sep. 2024 - Present
 
 **Sun Yat-Sen University**
-* Aug. 2021 - Present
+* Aug. 2021 - Jun. 2024
 * Master in Science
 * Major: 	Ecology (honors program: Evolutionary Ecology)
 * Cumulative GPA:	3.5 (85.65/100)
