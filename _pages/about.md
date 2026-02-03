@@ -20,6 +20,6 @@ During my master’s journey, I was fortunate to be mentored by **Professor KaYa
 
 I’m endlessly fascinated by **genome evolution**, **bioinformatics**, **phylogenetic analysis**, and even the magic of **machine learning** 🧬💻. Here's to science, discovery, and endless cups of coffee – let’s make some breakthroughs together! ☕🔍🚀  
 
-[CV](https://ziweiwuzw.github.io/Personal-Homepage/files/CV-ZoeWu.pdf) / [Email](mailto:ziweiw1998@gmail.com) 
+[CV](https://ziweiwuzw.github.io/Personal-Homepage/files/CV-ZIWEI-New.pdf) / [Email](mailto:ziweiw1998@gmail.com) 
 
 ---
