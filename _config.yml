@@ -89,7 +89,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ziweiw9@student.unimelb.edu.au"
-  researchgate     :  "https://www.researchgate.net/profile/Ziwei-Wu-15"
+  researchgate     : "https://www.researchgate.net/profile/Ziwei-Wu-15"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3728-4065"
+  linkedin         : "https://www.linkedin.com/in/ziwei-wu-immunology/"
+  orcid            : # "https://orcid.org/0000-0002-3728-4065"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
